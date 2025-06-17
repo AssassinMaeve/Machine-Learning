@@ -51,7 +51,7 @@ This repository contains a collection of practical programs and experiments impl
    ```bash
    git clone https://github.com/yourusername/Machine-Learning.git
    cd Machine-Learning
-````
+   ```
 
 2. Install the required libraries:
 
