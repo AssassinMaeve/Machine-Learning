@@ -65,16 +65,11 @@ This repository contains a collection of practical programs and experiments impl
    python filename.py
    ```
 
----
-
 ## 📌 Disclaimer
 This repository is for **educational purposes only**. The programs are based on academic requirements for the MSc ST curriculum.
-```
 
 ## 🧠 Author
 
 **Maeve Fernandes**
 MSc Software Technology
 St. Aloysius (Deemed to be University), Mangalore
-
----
